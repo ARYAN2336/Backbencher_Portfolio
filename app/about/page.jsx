@@ -57,7 +57,7 @@ const about = {
 
     },
     
- <br/>
+
   ], 
 };
 
@@ -141,7 +141,7 @@ const skills = {
       icon: <SiMysql />,
       name: "MySQL",
     },
-    <br/>
+  
   ],
 };
 
